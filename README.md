@@ -1,5 +1,5 @@
 # HW2
-Assignment 02 for COT3400
+Assignment 02 for COT3400.
 
 # Structure of Implementation/Decision Designs
 
